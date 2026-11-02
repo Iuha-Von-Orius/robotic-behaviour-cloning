@@ -1,0 +1,9 @@
+# Direct dependencies; install a matching CUDA PyTorch/torchvision pair for training.
+torch
+torchvision
+numpy
+pandas
+scikit-learn
+matplotlib
+h5py
+tqdm

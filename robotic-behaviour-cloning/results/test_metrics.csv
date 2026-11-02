@@ -1,0 +1,3 @@
+model,total_loss,position_mse,gripper_accuracy_percent
+end_to_end,0.1656,0.0101,87.76
+frozen_vae_head,128.5391,82.5828,32.37
